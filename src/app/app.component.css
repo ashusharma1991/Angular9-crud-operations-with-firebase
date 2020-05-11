@@ -1,0 +1,16 @@
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    background: black;
+    color: white;
+    font-size: 22px;
+}
+
+.card {
+   
+    margin-bottom: 121px;
+}
